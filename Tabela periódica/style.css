@@ -1,0 +1,27 @@
+table { width: 100%;
+height: 98vh;
+text-align: center;}
+
+td{ width: 5,5%;
+    height:10%;}
+
+    .elementoVERDE {text-align: center;
+               background-color: green}
+    .elementoAZUL {text-align: center;
+               background-color:blue}
+    .elementoLARANJA {text-align: center;
+                background-color:orange}
+    .elementoAMARELO {text-align: center;
+                background-color: yellow}
+    .elementoVERMELHO {text-align: center;
+                    background-color: red}
+    .elementoCINZA {text-align: center;
+                        background-color: gray}
+    .elementoVERDEESCURO {text-align: center;
+                    background-color: darkgreen}
+    .elementoCIANO {text-align: center;
+                        background-color: cyan}
+    .elementoCIANOCLARO {text-align: center;
+                    background-color: rgb(134, 227, 227)}
+    .elementoROXO {text-align: center;
+                 background-color: purple}
