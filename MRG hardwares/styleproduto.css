@@ -1,0 +1,33 @@
+*{margin:0;
+padding: 0;
+box-sizing:border-box ;
+}
+body{
+background-color:white;
+}
+table { width: 100%;
+    height: 100vh;
+    text-align: center;}
+    
+    td { width: 4%;}
+.block1{text-align: center; background-color:cyan}
+.produto1{text-align: center;
+        background-color:blue}
+        .produto2{text-align: center;
+            background-color:blue}
+            .produto3{text-align: center;
+                background-color:blue}
+                .produto4{text-align: center;
+                    background-color:blue}
+                    .produto5{text-align: center;
+                        background-color:blue}
+                        .produto6{text-align: center;
+                            background-color:blue}
+                            .produto7{text-align: center;
+                                background-color:blue}
+                                .produto8{text-align: center;
+                                    background-color:blue}
+                                    .produto9{text-align: center;
+                                        background-color:blue}
+
+    
